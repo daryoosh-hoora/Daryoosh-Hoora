@@ -1,6 +1,6 @@
 # Daryoosh Hoora 
 
-![Custom badge](https://img.shields.io/badge/I am-Software Architecture-orange)
+![Custom badge](https://img.shields.io/badge/I%20am-Software%20Architecture-orange)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daryoosh-hoora&theme=dark)](https://github.com/daryoosh-hoora/github-readme-stats)
 
