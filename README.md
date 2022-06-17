@@ -2,6 +2,8 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/daryoosh-hoora?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daryoosh-hoora)](https://github.com/daryoosh-hoora/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daryoosh-hoora&langs_count=5&theme=dark)](https://github.com/daryoosh-hoora/github-readme-stats)
 
 <p style="margin:0px">My profile at StackOverflow.com:</P>
