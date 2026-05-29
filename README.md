@@ -12,14 +12,18 @@ In addition to my technical skills, I have led cross-functional teams, finding s
 
 With a balance of technical skill and strategic insight, I support teams and projects in achieving technical excellence in a rapidly changing digital landscape.
 
-I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn or contact me directly at [daryoosh.hoora@yahoo.com](mailto://daryoosh.hoora@yahoo.com).
+I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn or contact me directly at [daryoosh.hoora@yahoo.com](mailto://daryoosh.hoora@yahoo.com)
 
 **Skills:**
 
 *Software Engineering, Web Development, Windows Application Development, Software Architecture, System Design, Business Analyses*
 
+
 <p>Visit my profile at StackOverflow.com:</P>
 <a href="https://stackoverflow.com/users/19276844/daryoosh-hoora"><img src="https://stackoverflow.com/users/flair/19276844.png" width="208" height="58" alt="profile for Daryoosh Hoora at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Daryoosh Hoora at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+
+[LinkedIn](https://www.linkedin.com/in/daryooshhoora/) | [X](https://x.com/@datisONE)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daryoosh-hoora&theme=dark)](https://github.com/daryoosh-hoora/github-readme-stats)
