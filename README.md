@@ -10,9 +10,10 @@ In addition to my technical skills, I have led cross-functional teams, finding s
 
 With a balance of technical skill and strategic insight, I support teams and projects in achieving technical excellence in a rapidly changing digital landscape.
 
-I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn or contact me directly at [daryoosh.hoora@yahoo.com].
+I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn or contact me directly at [mailto://daryoosh.hoora@yahoo.com](daryoosh.hoora@yahoo.com).
 
 **Skills:**
+
 *Software Engineering, Web Development, Windows Application Development, Software Architecture, System Design, Business Analyses*
 
 ![Custom badge](https://img.shields.io/badge/I%20am-Software%20Architect-orange)
