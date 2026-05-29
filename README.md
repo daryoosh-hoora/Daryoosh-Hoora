@@ -19,6 +19,9 @@ I'm always looking to grow my personal and professional network. Feel free to co
 
 [LinkedIn](https://www.linkedin.com/in/daryooshhoora/) &nbsp;&nbsp;|&nbsp;&nbsp; [X](https://x.com/@datisONE)
 
+![Static Badge](https://img.shields.io/badge/in-LinkedIn-blue?style=flat&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaryooshhoora%2F) &nbsp;&nbsp; ![Static Badge](https://img.shields.io/badge/datisONE-gray?style=flat&logo=x&link=https%3A%2F%2Fx.com%2F%40datisONE)
+
+
 <br><p>Visit my profile at StackOverflow.com:</P>
 <a href="https://stackoverflow.com/users/19276844/daryoosh-hoora"><img src="https://stackoverflow.com/users/flair/19276844.png" width="208" height="58" alt="profile for Daryoosh Hoora at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Daryoosh Hoora at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
